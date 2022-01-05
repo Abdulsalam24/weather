@@ -53,8 +53,8 @@ button{
 
 .card{
     background-color: #000000d0;
-    padding: 2em;
-    width: 100%;
+    padding: 1.5em;
+    width: 95%;
     max-width: 430px;
     border-radius: 14px;
 }
